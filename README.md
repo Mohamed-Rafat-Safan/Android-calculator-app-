@@ -35,6 +35,7 @@ Power number :
 
 
 if find syntax error in Calculation : 
+
 ![syntax_error](https://user-images.githubusercontent.com/76782050/164271225-23dfe19d-43d6-43e8-9bc6-c4905a29ec14.jpg)
 ![syntax_error1](https://user-images.githubusercontent.com/76782050/164271246-633c661c-7c51-4fd7-8909-97d335797af8.jpg)
 
