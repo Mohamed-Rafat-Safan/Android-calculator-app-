@@ -18,27 +18,39 @@ if you divide by zero :
 
 calculate remainder of the division:
 
-![4](https://user-images.githubusercontent.com/76782050/164269602-7221b935-bc29-4a3a-8aee-273638ad7939.jpg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76782050/164269602-7221b935-bc29-4a3a-8aee-273638ad7939.jpg" width="250" height="500" />
+</p>
 
 
 Returns the value of the last calculation you performed by pressing the ANS button:
 
-![5](https://user-images.githubusercontent.com/76782050/164269905-2cfce32e-d65d-47e7-aebe-5fee924a8ce3.jpg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76782050/164269905-2cfce32e-d65d-47e7-aebe-5fee924a8ce3.jpg" width="250" height="500" />
+</p>
+
 
 Calculate by priority arithmetic operations:
 
-![6](https://user-images.githubusercontent.com/76782050/164270298-d6131a7a-793a-49a8-89e1-e8bef93fe99e.jpg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76782050/164270298-d6131a7a-793a-49a8-89e1-e8bef93fe99e.jpg" width="250" height="500" />
+</p>
 
 
 Power number :
 
-![7](https://user-images.githubusercontent.com/76782050/164270541-c6e9e430-820b-4d1b-9759-2632cf5bd28c.jpg)
-![8](https://user-images.githubusercontent.com/76782050/164270564-fb35a126-38dc-4852-8334-2eb4416c6186.jpg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76782050/164270541-c6e9e430-820b-4d1b-9759-2632cf5bd28c.jpg" width="250" height="500" />
+ <span> &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;</span>
+<img src="https://user-images.githubusercontent.com/76782050/164270564-fb35a126-38dc-4852-8334-2eb4416c6186.jpg" width="250" height="500" />
+</p>
 
 
 if find syntax error in Calculation : 
 
-![syntax_error](https://user-images.githubusercontent.com/76782050/164271225-23dfe19d-43d6-43e8-9bc6-c4905a29ec14.jpg)
-![syntax_error1](https://user-images.githubusercontent.com/76782050/164271246-633c661c-7c51-4fd7-8909-97d335797af8.jpg)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76782050/164271225-23dfe19d-43d6-43e8-9bc6-c4905a29ec14.jpg" width="250" height="500" />
+ <span> &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;</span>
+<img src="https://user-images.githubusercontent.com/76782050/164271246-633c661c-7c51-4fd7-8909-97d335797af8.jpg" width="250" height="500" />
+</p>
 
