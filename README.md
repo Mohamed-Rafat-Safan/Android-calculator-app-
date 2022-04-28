@@ -3,17 +3,17 @@ This application has the advantage that it calculates the equation of its accoun
 
  Main Screen :
  
-<span align="center">
-<img src="https://user-images.githubusercontent.com/76782050/164268888-e826ca03-ae16-486a-b1c8-1530fa0ddeff.jpg" width="200" height="400" />
-</span>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76782050/164268888-e826ca03-ae16-486a-b1c8-1530fa0ddeff.jpg" width="250" height="500" />
+</p>
 
 
 if you divide by zero :
 
-<span align="center">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/76782050/164269229-1fe65171-8443-4fe5-a046-ce64e8085aef.jpg" width="200" height="400" />
 <img src="https://user-images.githubusercontent.com/76782050/164269497-b4f9aa2c-0beb-4bd9-b9b1-8fd94f78dc9e.jpg" width="200" height="400" />
-</span>
+</p>
 
 calculate remainder of the division:
 
