@@ -3,7 +3,7 @@ This application has the advantage that it calculates the equation of its accoun
 
 Main Screen :
 
-![1](https://user-images.githubusercontent.com/76782050/164268888-e826ca03-ae16-486a-b1c8-1530fa0ddeff.jpg | width=50)
+![1](https://user-images.githubusercontent.com/76782050/164268888-e826ca03-ae16-486a-b1c8-1530fa0ddeff.jpg =250x250)
 
 
 
