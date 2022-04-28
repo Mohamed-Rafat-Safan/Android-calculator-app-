@@ -1,16 +1,18 @@
 # Android-calculator-app-
 This application has the advantage that it calculates the equation of its account and on the condition that it implements the arithmetic priorities on the equation, and it can calculate the rest of the division with the numbers, and it keeps me the last value I executed on the application, and any error from the user the application gives him where the error is,, for example the user is divided by zero , And so on... 
 
-Main Screen :
+
 <span align="center">
+  Main Screen :
 <img src="https://user-images.githubusercontent.com/76782050/164268888-e826ca03-ae16-486a-b1c8-1530fa0ddeff.jpg" width="200" height="400" />
 </span>
+
+<span align="center">
 if you divide by zero :
+<img src="https://user-images.githubusercontent.com/76782050/164269229-1fe65171-8443-4fe5-a046-ce64e8085aef.jpg" width="200" height="400" />
 
-![2](https://user-images.githubusercontent.com/76782050/164269229-1fe65171-8443-4fe5-a046-ce64e8085aef.jpg)
-
-![3](https://user-images.githubusercontent.com/76782050/164269497-b4f9aa2c-0beb-4bd9-b9b1-8fd94f78dc9e.jpg)
-
+<img src="https://user-images.githubusercontent.com/76782050/164269497-b4f9aa2c-0beb-4bd9-b9b1-8fd94f78dc9e.jpg" width="200" height="400" />
+</span>
 
 calculate remainder of the division:
 
