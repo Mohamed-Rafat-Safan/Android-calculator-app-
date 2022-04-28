@@ -2,10 +2,9 @@
 This application has the advantage that it calculates the equation of its account and on the condition that it implements the arithmetic priorities on the equation, and it can calculate the rest of the division with the numbers, and it keeps me the last value I executed on the application, and any error from the user the application gives him where the error is,, for example the user is divided by zero , And so on... 
 
 Main Screen :
-<p align="center">
+<span align="center">
 <img src="https://user-images.githubusercontent.com/76782050/164268888-e826ca03-ae16-486a-b1c8-1530fa0ddeff.jpg" width="200" height="400" />
-</p>
-
+</span>
 if you divide by zero :
 
 ![2](https://user-images.githubusercontent.com/76782050/164269229-1fe65171-8443-4fe5-a046-ce64e8085aef.jpg)
