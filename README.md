@@ -3,7 +3,7 @@ This application has the advantage that it calculates the equation of its accoun
 
 Main Screen :
 
-<img src="https://user-images.githubusercontent.com/76782050/164268888-e826ca03-ae16-486a-b1c8-1530fa0ddeff.jpg" width="250" height="250" />
+<img src="https://user-images.githubusercontent.com/76782050/164268888-e826ca03-ae16-486a-b1c8-1530fa0ddeff.jpg" width="200" height="400" />
 
 if you divide by zero :
 
